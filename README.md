@@ -2,7 +2,7 @@
 
 Meu site pessoal de portfólio, com informações sobre mim, minhas skills, meus projetos e minhas experiências.
 
-🔗 **Acesse:** [suzaneluzz.github.io]((https://suzaneluzz.github.io/portf-lio/))
+🔗 **Acesse:** [suzaneluzz.github.io](https://suzaneluzz.github.io/portf-lio/)
 
 ## Seções
 
